@@ -29,6 +29,7 @@ public class Q03_6 {
 		}
 		System.out.println("----------------");
 		
+		
 //		ifで分岐
 		int num = 0;
 		for(int i = 1; i <= 9; i++) {
