@@ -1,6 +1,6 @@
 package Quiz;
 
-public class Q03_3 {
+public class Q03_03 {
 
 	public static void main(String[] args) {
 //		二重forループを使って5行10列の*を出力

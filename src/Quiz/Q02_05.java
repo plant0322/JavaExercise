@@ -2,7 +2,7 @@ package Quiz;
 
 import java.util.Scanner;
 
-public class Q02_5 {
+public class Q02_05 {
 
 	public static void main(String[] args) {
 		System.out.println("西暦年を整数で入力してください");

@@ -2,7 +2,7 @@ package Quiz;
 
 import java.util.Scanner;
 
-public class Q02_2 {
+public class Q02_02 {
 
 	public static void main(String[] args) {
 		System.out.println("1～12の範囲で入力してください。");

@@ -1,6 +1,6 @@
 package Quiz;
 
-public class Q03_4 {
+public class Q03_04 {
 
 	public static void main(String[] args) {
 //		階段状に*を出力

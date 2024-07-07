@@ -2,7 +2,7 @@ package Quiz;
 
 import java.util.Scanner;
 
-public class Q02_1 {
+public class Q02_01 {
 
 	public static void main(String[] args) {
 		System.out.println("年齢を整数で入力してください");

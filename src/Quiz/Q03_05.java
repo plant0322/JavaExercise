@@ -1,6 +1,6 @@
 package Quiz;
 
-public class Q03_5 {
+public class Q03_05 {
 
 	public static void main(String[] args) {
 //		九九の表を出力

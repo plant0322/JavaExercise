@@ -3,7 +3,7 @@ package Quiz;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Q02_4 {
+public class Q02_04 {
 
 	public static void main(String[] args) {
 		System.out.println("じゃんけんゲームスタート\nあなたの手を数字で選んでください「0：ぐー」「1：ちょき」「2：ぱー」");

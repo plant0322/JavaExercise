@@ -1,6 +1,6 @@
 package Quiz;
 
-public class Q03_2 {
+public class Q03_02 {
 
 	public static void main(String[] args) {
 //		1～1000までの整数の合計値を求める

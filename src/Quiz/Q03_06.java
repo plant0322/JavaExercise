@@ -1,6 +1,6 @@
 package Quiz;
 
-public class Q03_6 {
+public class Q03_06 {
 
 	public static void main(String[] args) {
 //		二重ループを使用
