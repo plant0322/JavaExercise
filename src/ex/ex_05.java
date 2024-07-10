@@ -11,7 +11,7 @@ public class ex_05 {
 					System.out.print(",");
 				}
 			}
-			System.out.println("\n");
+			System.out.println();
 		}
 
 	}
