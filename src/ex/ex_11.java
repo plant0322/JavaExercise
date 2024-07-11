@@ -61,6 +61,8 @@ public class ex_11 {
 		int month = new java.util.Scanner(System.in).nextInt();
 		
 		System.out.println(seasons[month / 3 % 4]);
+		
+		
 
 	}
 
